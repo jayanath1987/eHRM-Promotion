@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+    <file source-language="EN" target-language="ta" datatype="plaintext" original="messages" date="2009-12-08T13:58:35Z" product-name="messages">
+        <header/>
+        <body>
+			<trans-unit id="1">
+				<source>Promotion</source>
+				<target>உயர்வு</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>New Promotion</source>
+				<target>புதிய ஊக்குவிப்பு</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Edit Promotion</source>
+				<target>ஊக்குவிப்பு திருத்து</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Search For:</source>
+				<target>தேட:</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Confirmed</source>
+				<target>உறுதி</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Confirm</source>
+				<target>உறுதி</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>New Service</source>
+				<target>புதிய சேவை</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Designation</source>
+				<target>பதவி</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Employee Type</source>
+				<target>பணியாளர் அமைப்பு</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Effective date</source>
+				<target>நடைமுறைப்படுத்திய தேதி</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Promotion Method</source>
+				<target>ஊக்குவிப்பு முறை</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Promotion Letter</source>
+				<target>ஊக்குவிப்பு கடிதம்</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>My Number</source>
+				<target>என் எண்</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Comment</source>
+				<target>கருத்து</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Current</source>
+				<target>தற்போதைய</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>New</source>
+				<target>புதிய</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Grade:</source>
+				<target>தரம்:</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Designation:</source>
+				<target>பதவி:</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Employee Type:</source>
+				<target>பணியாளர் வகை:</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Employee Type</source>
+				<target>பணியாளர் அமைப்பு</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Salary Code</source>
+				<target>சம்பளம் கோட்</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Promotion Method</source>
+				<target>ஊக்குவிப்பு முறை</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>New</source>
+				<target>புதிய</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Upload Promotion Letter</source>
+				<target>ஊக்குவிப்பு கடிதம் பதிவேற்று</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Promotion Method required in English</source>
+				<target>ஆங்கிலம் தேவைப்படும் ஊக்குவிப்பு முறை</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Add Promotion Method</source>
+				<target>ஊக்குவிப்பு முறை சேர்க்க</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Edit Promotion Method</source>
+				<target>ஊக்குவிப்பு முறை திருத்து</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Promotion Check List</source>
+				<target>ஊக்குவிப்பு சோதனை பட்டியல்</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Add Promotion Check List</source>
+				<target>ஊக்குவிப்பு சோதனை பட்டியல் சேர்க்க</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Edit Promotion Check List</source>
+				<target>ஊக்குவிப்பு சோதனை பட்டியல் திருத்தும்</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Checklist Name</source>
+				<target>சரிபார்ப்பு பட்டியல் பெயர்</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Checklist</source>
+				<target>சரிபார்ப்பு பட்டியல்</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Validate</source>
+				<target>உறுதி செய்</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Promotion  Summary</source>
+				<target>ஊக்குவிப்பு சுருக்கம்</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Promotion Method  Summary</source>
+				<target>ஊக்குவிப்பு முறை சுருக்கம்</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Promotion Check List Summary</source>
+				<target>ஊக்குவிப்பு சோதனை பட்டியல் சுருக்கம்</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Probationers</source>
+				<target>Probationers</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Checklist</source>
+				<target>சரிபார்ப்பு பட்டியல்</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Appointment Letter number</source>
+				<target>நியமனம் கடிதம் எண்</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Probation Start Date</source>
+				<target>நன்னடத்தை தொடக்க தேதி</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Probation End Date</source>
+				<target>நன்னடத்தை முடிவு தேதி</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Check List</source>
+				<target>சரிபார்க்க வேண்டிய பட்டியல்</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Letter Number</source>
+				<target>கடிதம் எண்</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Salary Scale</source>
+				<target>சம்பளம் அளவீடு</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Date completed</source>
+				<target>தேதி நிறைவு</target>
+			</trans-unit>
+			<trans-unit id="1">
+				<source>Date completed can not be blank.</source>
+				<target>நிறைவு தேதி காலியாக இருக்க முடியாது.</target>
+			</trans-unit>
+			<trans-unit id="116">
+				<source>NIC Number</source>
+				<target>தேசிய அடையாள அட்டை எண்</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Level:</source>
+				<target>நிலை:</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Service:</source>
+				<target>சேவை:</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Class:</source>
+				<target>வர்க்கம்:</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Grade Slot:</source>
+				<target>கிரேடு துளை:</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Increment Date:</source>
+				<target>தேதி உயர்ச்சி:</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Work Station:</source>
+				<target>நிலையம் வேலை:</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Commencement Date</source>
+				<target>ஆரம்பம் தேதி</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Check Disciplinary Actions</source>
+				<target>ஒழுங்குமுறை செயல்கள் சரிபார்த்து</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Employee Other Institution Summary</source>
+				<target>பணியாளர் பிற நிறுவனம் சுருக்கம்</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Other Institutions</source>
+				<target>மற்ற நிறுவனங்கள்</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Employee Number</source>
+				<target>பணியாளர் எண்ணிக்கை</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Released Location</source>
+				<target>இருப்பிடம் வெளியிடப்பட்டது</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Released Period From</source>
+				<target>வரம்பு வெளியிடப்பட்டது காலம்</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Released Period To</source>
+				<target>வெளியிடப்பட்டது காலம்</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Payroll Active</source>
+				<target>சம்பள செயலில்</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Promotion  History</source>
+				<target>பதவி உயர்வு வரலாறு</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Please select an employee</source>
+				<target>ஒரு பணியாளர் தேர்வு செய்யவும்</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Effective Date</source>
+				<target>நடைமுறைப்படுத்திய தேதி</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Promotion Method</source>
+				<target>ஊக்குவிப்பு முறை</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Employer Name</source>
+				<target>முதலாளி பெயர்</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Institute Name</source>
+				<target>நிறுவனம் பெயர்</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Edit Promotion</source>
+				<target>ஊக்குவிப்பு திருத்து</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Letter Number</source>
+				<target>கடிதம் எண்</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Employee Name</source>
+				<target>பணியாளர் பெயர்</target>
+			</trans-unit>
+			<trans-unit>
+				<source>New Service</source>
+				<target>புதிய சேவை</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Designation</source>
+				<target>பதவி</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Employee Type</source>
+				<target>பணியாளர் அமைப்பு</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Location</source>
+				<target>இருப்பிடம்</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Salary Code</source>
+				<target>சம்பளம் கோட்</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Salary Scale</source>
+				<target>சம்பளம் அளவீடு</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Promotion Method</source>
+				<target>ஊக்குவிப்பு முறை</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Upload Promotion Letter</source>
+				<target>ஊக்குவிப்பு கடிதம் பதிவேற்று</target>
+			</trans-unit>
+			<trans-unit>
+				<source>View</source>
+				<target>காண்க</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Delete</source>
+				<target>நீக்கு</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Reset</source>
+				<target>மீட்டமை</target>
+			</trans-unit>
+			<trans-unit>
+				<source>This is a confirmed record</source>
+				<target>இந்த ஒரு உறுதி சாதனை</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Job Title Name is required</source>
+				<target>வேலை தலைப்பு பெயர் தேவைப்படுகிறது</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Please select Confirm Method</source>
+				<target>முறை உறுதிப்படுத்தவும் தேர்ந்தெடுக்கவும்</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Special characters are not allowed</source>
+				<target>சிறப்பு எழுத்துகள் அனுமதி இல்லை</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Please specify valid date</source>
+				<target>செல்லுபடியாகும் தேதி குறிப்பிடவும்</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Please enter Date</source>
+				<target>தேதி உள்ளிடவும்</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Edit Promotion Method</source>
+				<target>ஊக்குவிப்பு முறை திருத்து</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Promotion Method</source>
+				<target>ஊக்குவிப்பு முறை</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Special characters are not allowed</source>
+				<target>சிறப்பு எழுத்துகள் அனுமதி இல்லை</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Edit Promotion Check List</source>
+				<target>ஊக்குவிப்பு சோதனை பட்டியல் திருத்தும்</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Checklist Name</source>
+				<target>சரிபார்ப்பு பட்டியல் பெயர்</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Special characters are not allowed</source>
+				<target>சிறப்பு எழுத்துகள் அனுமதி இல்லை</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Maximum 50 characters</source>
+				<target>அதிகபட்ச 50 எழுத்துக்கள்</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Other Institutions</source>
+				<target>மற்ற நிறுவனங்கள்</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Employee Number</source>
+				<target>பணியாளர் எண்ணிக்கை</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Designation :</source>
+				<target>பதவி:</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Work Station :</source>
+				<target>நிலையம் வேலை:</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Institute</source>
+				<target>நிறுவனம்</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Released Location</source>
+				<target>இருப்பிடம் வெளியிடப்பட்டது</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Released Period From</source>
+				<target>வரம்பு வெளியிடப்பட்டது காலம்</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Released Period To</source>
+				<target>வெளியிடப்பட்டது காலம்</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Payroll Active</source>
+				<target>சம்பள செயலில்</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Reason</source>
+				<target>காரணம்</target>
+			</trans-unit>
+			<trans-unit>
+				<source>This field is required</source>
+				<target>இந்த புலம் தேவைப்படுகிறது</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Maximum 200 characters</source>
+				<target>அதிகபட்ச 200 எழுத்துகள்</target>
+			</trans-unit>
+			<trans-unit>
+				<source>This field is required</source>
+				<target>இந்த புலம் தேவைப்படுகிறது</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Invalid Released Period</source>
+				<target>செல்லாத வெளியிடப்பட்டது காலம்</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Promotion</source>
+				<target>உயர்வு</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Current</source>
+				<target>தற்போதைய</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Designation :</source>
+				<target>பதவி:</target>
+			</trans-unit>
+			<trans-unit>
+				<source>Employee Type:</source>
+				<target>பணியாளர் வகை:</target>
+			</trans-unit>
+		</body>
+    </file>
+</xliff>

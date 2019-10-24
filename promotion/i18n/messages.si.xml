@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+    <file source-language="EN" target-language="si" datatype="plaintext" original="messages" date="2009-12-08T13:58:35Z" product-name="messages">
+        <header/>
+        <body>
+            <trans-unit id="1">
+                <source>Promotion</source>
+                <target>උසස් වීම</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>New Promotion</source>
+                <target>නව උසස් වීම</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Edit Promotion</source>
+                <target>උසස් වීම සංස්කරණය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Search For: </source>
+                <target>සෙවීම සඳහා</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Confirmed</source>
+                <target>ස්ථීර කල</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>confirm</source>
+                <target>ස්ථීර කරන්න</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>New Service</source>
+                <target>අලුත් සේවය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Designation</source>
+                <target>තනතුර</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Emp.Type</source>
+                <target>සේවක වර්ගය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Efc.Date</source>
+                <target>බලපාන දිනය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Prm.Method</source>
+                <target>උසස් වීම් විධිය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>P.Letter</source>
+                <target>උසස් වීම් ලිපිය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>My Number</source>
+                <target>මගේ අංකය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Comment</source>
+                <target>විස්තරය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Current</source>
+                <target>දැන් පවත්නා</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>New</source>
+                <target>නව</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Grade:</source>
+                <target>ශ්‍රේණිය :</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Designation:</source>
+                <target>තනතුර</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Employee Type:</source>
+                <target>සේවක වර්ගය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Employee Type</source>
+                <target>සේවක වර්ගය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Salary Code</source>
+                <target>වැටුප් කේතය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Promotion Method</source>
+                <target>උසස් වීම් විධිය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>New</source>
+                <target>නව</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Upload Promotion Letter</source>
+                <target>ලිපිය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Promotion Method required in English</source>
+                <target>ඉංග්‍රීසියෙන් අනිවාර්යයි</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Add Promotion Method</source>
+                <target>නව උසස් වීම් විධිය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Edit Promotion Method</source>
+                <target>උසස් වීම් විධිය සංස්කරණය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Promotion Check List</source>
+                <target>උසස් වීම පිරික්සුම් ලැයිස්තුව</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Add Promotion Check List</source>
+                <target>නව උසස් වීම් පිරික්සුම් ලැයිස්තුව</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Edit Promotion Check List</source>
+                <target>පිරික්සුම් ලැයිස්තුව සංස්කරණය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Checklist Name</source>
+                <target>පිරික්සුම් ලැයිස්තුවේ නම</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>CheckList</source>
+                <target>පිරික්සුම් ලැයිස්තුව</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Validate</source>
+                <target>වලංගු භාවය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Promotion  Summary</source>
+                <target>උසස් වීම් සාරංශය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Promotion Method  Summary</source>
+                <target>උසස් වීම් විධි සාරංශය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Promotion Check List Summary</source>
+                <target>පිරික්සුම් ලැයිස්තුව සාරංශය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Probationers</source>
+                <target>පරිවාසික</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Checklist</source>
+                <target>පිරික්සුම් ලැයිස්තුව</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Appointment Letter number</source>
+                <target>පත්වීමේ ලිපි අංකය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Probation Start Date</source>
+                <target>පරිවාස ආරම්භක දිනය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Probation End Date</source>
+                <target>පරිවාස අවසාන දිනය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Check List</source>
+                <target>පිරික්සුම් ලැයිස්තුව</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Letter Number</source>
+                <target>ලිපි අංකය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Salary Scale</source>
+                <target>වැටුප් පරාසය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Date completed</source>
+                <target>සම්පුර්ණ කල දිනය</target>
+            </trans-unit>
+        <trans-unit id="1">
+            <source>Date completed can not be blank.</source>
+            <target>සම්පුර්ණ කල දිනය ඇතුලත් කල යුතුය.</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>NIC Number</source>
+            <target>ජාතික හැදුනුම්පත් අංකය</target>
+        </trans-unit> 
+        <trans-unit id="1">
+            <source>Level:</source>
+            <target>තරාතිරම :</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Service:</source>
+            <target>සේවාව :</target>
+        </trans-unit>  
+        <trans-unit id="1">
+            <source>Class:</source>
+            <target>පංතිය :</target>
+        </trans-unit> 
+        <trans-unit id="1">
+            <source>Grade Slot:</source>
+            <target>ශ්‍රේණි කාණ්ඩය :</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Increment Date:</source>
+            <target>වැටුප් වැඩි වීම දිනය :</target>
+        </trans-unit> 
+        <trans-unit id="1">
+            <source>Work Station:</source>
+            <target>සේවා ස්ථානය :</target>
+        </trans-unit> 
+        <trans-unit id="1">
+            <source>Commencement Date</source>
+            <target>ආරම්භක දිනය</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Check Disciplinary Actions</source>
+            <target>විනය ඉතිහාසය</target>
+        </trans-unit>  
+        <trans-unit id="1">
+            <source>Employee Other Institution Summary</source>
+            <target>සේවක වෙනත් ආයතන සාරාංශය</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Other Institutions</source>
+            <target>වෙනත් ආයතන</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Employee Number</source>
+            <target>සේවක අංකය</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Released Location</source>
+            <target>නිදහස් කල ස්ථානය</target>
+        </trans-unit>  
+        <trans-unit id="1">
+            <source>Released Period From</source>
+            <target>නිදහස් කල කාල පරිච්ඡේදය සිට</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Released Period To</source>
+            <target>නිදහස් කල කාල පරිච්ඡේදය දක්වා</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Payroll Active</source>
+            <target>පඩිපත ක්‍රියාකාරී</target>
+        </trans-unit>  
+        <trans-unit id="1">
+            <source>Promotion  History</source>
+            <target>උසස් වීම ඉතිහාසය</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Please select a Employee</source>
+            <target>සේවකයෙක් අවශ්යයි</target>
+        </trans-unit> 
+                <trans-unit id="1">
+            <source>EffDate</source>
+            <target>බලපාන දිනය</target>
+        </trans-unit> 
+                <trans-unit id="1">
+            <source>PrmMethod</source>
+            <target>උසස් වීම් විධිය</target>
+        </trans-unit> 
+                <trans-unit id="1">
+            <source>Employer Name</source>
+            <target>සේවක නම</target>
+        </trans-unit> 
+        <trans-unit id="1">
+            <source>Institute Name</source>
+            <target>ආයතන නම</target>
+        </trans-unit>        
+    </body>
+</file>
+</xliff>

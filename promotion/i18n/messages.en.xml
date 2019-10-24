@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="en" datatype="plaintext" original="messages" date="2008-12-18T22:47:25Z" product-name="messages">
+    <header/>
+    <body>      
+      <trans-unit id="1">
+        <source>Promotion</source>
+        <target>Promotion</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Probationers Check list</source>
+        <target>Probationers checklist</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Add Promotion Check List</source>
+        <target>Add Probationers Check List</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Promotion Check List</source>
+        <target>Probationers checklist</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Check List</source>
+        <target>Checklist</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Date completed can not be blank.</source>
+        <target>Date completed can not be blank.</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Edit Promotion Check List</source>
+        <target>Edit Probationers Check List</target>
+      </trans-unit>     
+      <trans-unit id="1">
+        <source>Promotion Check List Summary</source>
+        <target>Probationers Check List Summary</target>
+      </trans-unit>       
+   
+     </body>
+  </file>
+</xliff>
